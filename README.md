@@ -3,4 +3,4 @@
 This is Job Application Form created using HTML & CSS.
 
 visit here:
-https://achal01.github.io/Job-Application/
+https://achal01.github.io/Job-Application/index.html

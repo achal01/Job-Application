@@ -5,7 +5,7 @@ margin:3;
  
 body{
 background-size:cover;
-color:white;
+color:black;
 }
 
 .registration-form{
@@ -34,7 +34,7 @@ width:100%;
 border:0;
 border-radius:5px;
 outline:none;
-color:#FFFFFF;
+color: black;
 }
 .registration-form button{
 font-size:18px;
